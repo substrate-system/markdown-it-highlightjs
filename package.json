@@ -1,5 +1,5 @@
 {
-  "name": "markdown-it-highlightjs",
+  "name": "@substrate-system/markdown-it-highlightjs",
   "version": "4.2.0",
   "description": "Preset to use highlight.js with markdown-it.",
   "keywords": [

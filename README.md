@@ -5,6 +5,11 @@
 [highlight.js]: https://highlightjs.org/
 [markdown-it]: https://github.com/markdown-it/markdown-it
 
+## fork
+
+This is a fork of [valeriangalliat/markdown-it-highlightjs](https://github.com/valeriangalliat/markdown-it-highlightjs).
+
+
 ## Usage
 
 ```js
